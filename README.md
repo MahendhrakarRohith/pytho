@@ -1,2 +1,2 @@
-# pytho
+# python
 all about python
