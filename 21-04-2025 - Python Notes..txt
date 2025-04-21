@@ -1,0 +1,22 @@
+//21-04-2025
+//Pandas
+pandas is an open source python library for data analysis and manipulation
+ it provides data structure link series and dataframe for handling structure data 
+
+->type of data structure
+
+1.Series
+2.DataFrame
+
+1.Series
+#creating series 
+>import pandas as pd
+>S=pd.Series([1,2,3,4,5])
+>print(S)
+
+2.DataFrame
+#creating dataframe
+>import pandas as pd
+>df=pd.DataFrame({"A":[1,2,3],"B":[4,5,6],"C":[7,8,9]})
+>print(df)
+
